@@ -1,0 +1,14 @@
+C:\Users\Мой\Desktop\HarC#\NumToText\NumToText\bin\Debug\NumToText.exe.config
+C:\Users\Мой\Desktop\HarC#\NumToText\NumToText\bin\Debug\NumToText.exe
+C:\Users\Мой\Desktop\HarC#\NumToText\NumToText\bin\Debug\NumToText.pdb
+C:\Users\Мой\Desktop\HarC#\NumToText\NumToText\obj\Debug\NumToText.csprojAssemblyReference.cache
+C:\Users\Мой\Desktop\HarC#\NumToText\NumToText\obj\Debug\NumToText.csproj.CoreCompileInputs.cache
+C:\Users\Мой\Desktop\HarC#\NumToText\NumToText\obj\Debug\NumToText.exe
+C:\Users\Мой\Desktop\HarC#\NumToText\NumToText\obj\Debug\NumToText.pdb
+C:\Users\Мой\Desktop\NumToText\NumToText\NumToText\bin\Debug\NumToText.exe.config
+C:\Users\Мой\Desktop\NumToText\NumToText\NumToText\bin\Debug\NumToText.exe
+C:\Users\Мой\Desktop\NumToText\NumToText\NumToText\bin\Debug\NumToText.pdb
+C:\Users\Мой\Desktop\NumToText\NumToText\NumToText\obj\Debug\NumToText.csprojAssemblyReference.cache
+C:\Users\Мой\Desktop\NumToText\NumToText\NumToText\obj\Debug\NumToText.csproj.CoreCompileInputs.cache
+C:\Users\Мой\Desktop\NumToText\NumToText\NumToText\obj\Debug\NumToText.exe
+C:\Users\Мой\Desktop\NumToText\NumToText\NumToText\obj\Debug\NumToText.pdb
